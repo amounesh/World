@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1688109817,,"wq"
+|2,0,1688115754,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,44 +25,241 @@
 # Registers:
 
 # File marks:
-'0  4  0  ~/russia
-|4,48,4,0,1688109817,"~/russia"
-'1  3  0  ~/australia
-|4,49,3,0,1688104156,"~/australia"
-'2  20  0  ~/.git/COMMIT_EDITMSG
-|4,50,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+'0  4  18  ~/goa
+|4,48,4,18,1688115754,"~/goa"
+'1  4  18  ~/goa
+|4,49,4,18,1688115697,"~/goa"
+'2  4  18  ~/goa
+|4,50,4,18,1688115686,"~/goa"
+'3  4  18  ~/goa
+|4,51,4,18,1688115686,"~/goa"
+'4  5  0  ~/maldivis
+|4,52,5,0,1688115545,"~/maldivis"
+'5  4  0  ~/russia
+|4,53,4,0,1688109817,"~/russia"
+'6  3  0  ~/australia
+|4,54,3,0,1688104156,"~/australia"
+'7  20  0  ~/.git/COMMIT_EDITMSG
+|4,55,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  4  18  ~/goa
+|4,39,4,18,1688115754,"~/goa"
+-'  4  18  ~/goa
+|4,39,4,18,1688115697,"~/goa"
+-'  4  18  ~/goa
+|4,39,4,18,1688115686,"~/goa"
+-'  1  0  ~/goa
+|4,39,1,0,1688115613,"~/goa"
+-'  1  0  ~/goa
+|4,39,1,0,1688115613,"~/goa"
+-'  1  0  ~/goa
+|4,39,1,0,1688115613,"~/goa"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
 -'  4  0  ~/russia
 |4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
 -'  1  0  ~/russia
 |4,39,1,0,1688109780,"~/russia"
 -'  3  0  ~/australia
 |4,39,3,0,1688104156,"~/australia"
 -'  3  0  ~/australia
 |4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
 -'  1  0  ~/australia
 |4,39,1,0,1688104134,"~/australia"
 -'  1  0  ~/australia
 |4,39,1,0,1688104134,"~/australia"
--'  20  0  ~/.git/COMMIT_EDITMSG
-|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
--'  20  0  ~/.git/COMMIT_EDITMSG
-|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
--'  20  0  ~/.git/COMMIT_EDITMSG
-|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
--'  20  0  ~/.git/COMMIT_EDITMSG
-|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
 
 # History of marks within files (newest to oldest):
+
+> ~/goa
+	*	1688115752	0
+	"	4	18
+	^	4	19
+	.	4	18
+	+	3	35
+	+	4	18
+
+> ~/maldivis
+	*	1688115544	0
+	"	5	0
+	^	5	0
+	.	4	52
+	+	4	52
 
 > ~/russia
 	*	1688109816	0

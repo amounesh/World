@@ -37,3 +37,75 @@ clear
 git status
 git config --global --list
 clear
+ls
+git status
+git push ww master
+git revert master
+ls
+git status
+ls
+git push ww master
+git status
+mkdir world/india
+mkdir world
+ls
+cd world/
+ls
+touch india
+touch pakistan
+touch nepal
+touch sri lanka
+touch bangladesh
+clear
+ls
+cd ..
+ls
+git status
+git commit -m "first commite"
+git add world/
+git status
+git commit -m "first commit"
+git push ww master
+git status
+vi australia
+git status
+git add .
+git status
+git commit -m "second commit"
+git push ww master
+git status
+clear
+ls
+vi russia
+git commit -m "russia"
+git commit -a -m "russia"
+git status
+git push ww master
+git status
+git add russia 
+git status
+git commit -m "russiaa"
+git push ww master
+git branch
+git branch development
+git branch
+git branch tester
+git branch
+git branch list
+git status
+git branch
+git branch d list
+git branch
+git branch -d d
+git branch
+git branch -d list
+git branch
+git push ww development 
+git push ww tester 
+git checkout tester 
+git branch
+git checkout development 
+git branch
+git checkout master 
+git status
+clear
