@@ -109,3 +109,58 @@ git branch
 git checkout master 
 git status
 clear
+ls
+vi maldivis
+git status
+git add .
+git status
+git commite -m
+git commite -m "fourth"
+git status
+vi goa
+vi goa 
+git status
+git add .
+git clean -f
+git status
+vi goa 
+git clean -f
+git clean -n
+git status
+git add .
+git status
+clear
+git reset
+git status
+git reset goa
+clear
+git add.
+git add .
+git status
+git reset goa
+git status
+git status maldivis 
+git status
+git reset maldivis
+gite status
+git status
+git add -a -m commit "fifth"
+git add -m -a commit "fifth"
+git commit -a -m "fifth"
+git status
+git add .
+git status
+git commit -m "sixth"
+git status
+git push ww master
+clera
+clear
+ls
+clear
+ls
+ls -l
+mkdir earth
+ls
+lsls -l
+ls -l
+clear
