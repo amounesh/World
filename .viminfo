@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1688115754,,"wq"
+|2,0,1688193551,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,32 @@
 # Registers:
 
 # File marks:
-'0  4  18  ~/goa
-|4,48,4,18,1688115754,"~/goa"
+'0  6  0  ~/goa
+|4,48,6,0,1688193551,"~/goa"
 '1  4  18  ~/goa
-|4,49,4,18,1688115697,"~/goa"
+|4,49,4,18,1688115754,"~/goa"
 '2  4  18  ~/goa
-|4,50,4,18,1688115686,"~/goa"
+|4,50,4,18,1688115754,"~/goa"
 '3  4  18  ~/goa
-|4,51,4,18,1688115686,"~/goa"
-'4  5  0  ~/maldivis
-|4,52,5,0,1688115545,"~/maldivis"
-'5  4  0  ~/russia
-|4,53,4,0,1688109817,"~/russia"
-'6  3  0  ~/australia
-|4,54,3,0,1688104156,"~/australia"
-'7  20  0  ~/.git/COMMIT_EDITMSG
-|4,55,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+|4,51,4,18,1688115697,"~/goa"
+'4  4  18  ~/goa
+|4,52,4,18,1688115697,"~/goa"
+'5  4  18  ~/goa
+|4,53,4,18,1688115686,"~/goa"
+'6  4  18  ~/goa
+|4,54,4,18,1688115686,"~/goa"
+'7  4  18  ~/goa
+|4,55,4,18,1688115686,"~/goa"
+'8  4  18  ~/goa
+|4,56,4,18,1688115686,"~/goa"
+'9  5  0  ~/maldivis
+|4,57,5,0,1688115545,"~/maldivis"
 
 # Jumplist (newest first):
+-'  6  0  ~/goa
+|4,39,6,0,1688193551,"~/goa"
+-'  4  18  ~/goa
+|4,39,4,18,1688193520,"~/goa"
 -'  4  18  ~/goa
 |4,39,4,18,1688115754,"~/goa"
 -'  4  18  ~/goa
@@ -55,6 +63,8 @@
 |4,39,1,0,1688115613,"~/goa"
 -'  1  0  ~/goa
 |4,39,1,0,1688115613,"~/goa"
+-'  1  0  ~/goa
+|4,39,1,0,1688115613,"~/goa"
 -'  5  0  ~/maldivis
 |4,39,5,0,1688115545,"~/maldivis"
 -'  5  0  ~/maldivis
@@ -71,6 +81,38 @@
 |4,39,5,0,1688115545,"~/maldivis"
 -'  5  0  ~/maldivis
 |4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  5  0  ~/maldivis
+|4,39,5,0,1688115545,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
+-'  1  0  ~/maldivis
+|4,39,1,0,1688115448,"~/maldivis"
 -'  1  0  ~/maldivis
 |4,39,1,0,1688115448,"~/maldivis"
 -'  1  0  ~/maldivis
@@ -119,6 +161,38 @@
 |4,39,4,0,1688109817,"~/russia"
 -'  4  0  ~/russia
 |4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
 -'  1  0  ~/russia
 |4,39,1,0,1688109780,"~/russia"
 -'  1  0  ~/russia
@@ -151,108 +225,39 @@
 |4,39,1,0,1688109780,"~/russia"
 -'  1  0  ~/russia
 |4,39,1,0,1688109780,"~/russia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  3  0  ~/australia
-|4,39,3,0,1688104156,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
--'  1  0  ~/australia
-|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
 
 # History of marks within files (newest to oldest):
 
 > ~/goa
-	*	1688115752	0
-	"	4	18
-	^	4	19
-	.	4	18
+	*	1688193549	0
+	"	6	0
+	^	6	0
+	.	5	21
 	+	3	35
 	+	4	18
+	+	5	21
 
 > ~/maldivis
 	*	1688115544	0
