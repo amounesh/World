@@ -164,3 +164,68 @@ ls
 lsls -l
 ls -l
 clear
+ls
+ls -l
+git england
+touch england irland
+ls
+ls -l
+git clean -n
+git add irland
+git status
+git add .
+git status
+git commit -m "seventh"
+git status
+git log
+git show 97e5f4478e
+git revert 97e5f4478e
+git status
+ls -l
+ls
+clear
+cd world/
+ls
+cd ..
+ls
+cd earth/
+ls
+cd ..
+ls
+git status
+git add .
+git statis
+git status
+git commit -m "."
+git status
+git push ww master
+ls
+vi goa 
+git commit -a -m "editted"
+git push ww mster
+git push ww master
+vi goa 
+git commit -a -m "again editted"
+git push ww master
+git status
+clear
+;s
+ls
+touch england
+git status
+git add .
+git status
+git reset
+git status
+clear
+git log
+git log -2
+git show df3f2618ae0
+clear
+git config --global --list
+clear
+git remote -v
+git clean -n
+git clean -f
+git status
+clear
