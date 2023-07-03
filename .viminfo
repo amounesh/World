@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1688365080,,"wq"
+|2,0,1688366630,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,40 @@
 # Registers:
 
 # File marks:
-'0  3  0  ~/butan
-|4,48,3,0,1688365080,"~/butan"
-'1  4  0  ~/russia
-|4,49,4,0,1688109817,"~/russia"
-'2  3  0  ~/australia
-|4,50,3,0,1688104156,"~/australia"
-'3  20  0  ~/.git/COMMIT_EDITMSG
-|4,51,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+'0  1  0  ~/.git/MERGE_MSG
+|4,48,1,0,1688366630,"~/.git/MERGE_MSG"
+'1  3  0  ~/butan
+|4,49,3,0,1688365080,"~/butan"
+'2  4  0  ~/russia
+|4,50,4,0,1688109817,"~/russia"
+'3  3  0  ~/australia
+|4,51,3,0,1688104156,"~/australia"
+'4  20  0  ~/.git/COMMIT_EDITMSG
+|4,52,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1688366630,"~/.git/MERGE_MSG"
 -'  3  0  ~/butan
 |4,39,3,0,1688365080,"~/butan"
+-'  3  0  ~/butan
+|4,39,3,0,1688365080,"~/butan"
+-'  1  0  ~/butan
+|4,39,1,0,1688365067,"~/butan"
 -'  1  0  ~/butan
 |4,39,1,0,1688365067,"~/butan"
 -'  4  0  ~/russia
 |4,39,4,0,1688109817,"~/russia"
 -'  4  0  ~/russia
 |4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  4  0  ~/russia
+|4,39,4,0,1688109817,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
+-'  1  0  ~/russia
+|4,39,1,0,1688109780,"~/russia"
 -'  1  0  ~/russia
 |4,39,1,0,1688109780,"~/russia"
 -'  1  0  ~/russia
@@ -55,6 +71,22 @@
 |4,39,3,0,1688104156,"~/australia"
 -'  3  0  ~/australia
 |4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  3  0  ~/australia
+|4,39,3,0,1688104156,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
+-'  1  0  ~/australia
+|4,39,1,0,1688104134,"~/australia"
 -'  1  0  ~/australia
 |4,39,1,0,1688104134,"~/australia"
 -'  1  0  ~/australia
@@ -79,6 +111,38 @@
 |4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
 -'  20  0  ~/.git/COMMIT_EDITMSG
 |4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+-'  20  0  ~/.git/COMMIT_EDITMSG
+|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+-'  20  0  ~/.git/COMMIT_EDITMSG
+|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+-'  20  0  ~/.git/COMMIT_EDITMSG
+|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+-'  20  0  ~/.git/COMMIT_EDITMSG
+|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+-'  20  0  ~/.git/COMMIT_EDITMSG
+|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+-'  20  0  ~/.git/COMMIT_EDITMSG
+|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+-'  20  0  ~/.git/COMMIT_EDITMSG
+|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+-'  20  0  ~/.git/COMMIT_EDITMSG
+|4,39,20,0,1688103552,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -97,6 +161,10 @@
 |4,39,1,0,1688103507,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1688366628	0
+	"	1	0
 
 > ~/butan
 	*	1688365079	0
