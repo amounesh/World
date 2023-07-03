@@ -229,3 +229,39 @@ git clean -n
 git clean -f
 git status
 clear
+ls
+clear
+git status
+git log
+git checkout development 
+git branch
+git checkout development 
+git checkout tester 
+git status
+git add .
+git status
+git checkout development 
+git commit -m "unknown"
+git commit -m "un"
+git status
+git checkout development 
+gti bran
+gti branch
+git branch 
+ls
+git checkout master 
+ld
+ls
+git branch 
+git status
+git add .
+git commit -m ""unk"
+ls
+git commit -m "unk"
+git status
+ls
+git staus
+git status
+git checkout master 
+git brach
+git branch
